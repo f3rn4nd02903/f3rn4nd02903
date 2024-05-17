@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f3rn4nd02903
 - 👀 I’m interested in desenvolvimento de sotware
-- 🌱 I’m currently learning js e python
+- 🌱 I’m currently learning js, python e git/github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Valente
